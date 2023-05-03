@@ -1,0 +1,6 @@
+projectKey=GameStation
+serverUrl=http://localhost:9000
+serverVersion=8.9.10.61524
+dashboardUrl=http://localhost:9000/dashboard?id=GameStation
+ceTaskId=AYfj6BBiKXHB-dhK-F02
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYfj6BBiKXHB-dhK-F02
